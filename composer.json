@@ -1,0 +1,13 @@
+{
+    "name": "lrh/test",
+    "description": "test composer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lorik",
+            "email": "497824490@qq.com"
+        }
+    ],
+    "require": {}
+}
